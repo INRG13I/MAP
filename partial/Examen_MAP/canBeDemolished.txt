@@ -1,0 +1,4 @@
+Block{totalApartments=50, occupiedApartments=1, constructionYear=1950, mustBeRestored=false, canBeDemolished=true}
+Block{totalApartments=200, occupiedApartments=190, constructionYear=1980, mustBeRestored=false, canBeDemolished=true}
+Block{totalApartments=100, occupiedApartments=90, constructionYear=2005, mustBeRestored=false, canBeDemolished=true}
+House{isHistorical=false, constructionYear=2010, mustBeRestored=false, canBeDemolished=true}

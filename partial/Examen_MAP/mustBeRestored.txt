@@ -1,0 +1,1 @@
+House{isHistorical=true, constructionYear=1900, mustBeRestored=true, canBeDemolished=false}
